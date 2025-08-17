@@ -19,8 +19,8 @@ The application provides real-time predictions, helping organizations promote em
 ## Installation  
 
 1. **Clone the repository**  
-   -git clone https://github.com/yourusername/zeiss-wellness-tracker.git and then,
-   -cd zeiss-wellness-tracker
+   git clone https://github.com/yourusername/zeiss-wellness-tracker.git and then,
+   cd zeiss-wellness-tracker
 
 
 2. **Install dependencies**
